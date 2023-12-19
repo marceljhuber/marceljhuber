@@ -1,5 +1,5 @@
 ## Nice to meet you! 🦜
-My name is Marcel Huber, and I am currently enrolled in the B.Sc. program for Artificial Intelligence (AI) at [Johannes Kepler University](https://www.jku.at/) in Linz, Austria.
+My name is Marcel Huber, and I am currently enrolled in the M.Sc. program for Artificial Intelligence (AI) at [Johannes Kepler University](https://www.jku.at/) in Linz, Austria.
 
 I have a keen interest in exploring various branches of AI, but I find Image Generation particularly thrilling, especially when it comes to studying Diffusion models and GANs in detail. I feel fortunate to have the opportunity to analyze the current capabilities and limitations of GANs in the medical sector, specifically with OCT images as part of my bachelor's thesis. My work is primarily focused on extracting meaningful latent directions from trained models, which is an exciting endeavor.
 
