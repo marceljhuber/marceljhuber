@@ -1,3 +1,6 @@
+## Nice to meet you! 🦜
+My name is Marcel Huber, and I am currently enrolled in the M.Sc. program for Artificial Intelligence (AI) at [Johannes Kepler University](https://www.jku.at/) in Linz, Austria.
+
 ### 🔭 I’m currently working on:
 - Pursuing my master's degree with a focus on diffusion models and local running LLMs.
 - Collaborating on research projects that explore the intersection of AI and healthcare, particularly in medical image analysis and diagnosis.
